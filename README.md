@@ -16,8 +16,8 @@ An interview is a conversation between two or more people where questions are as
 ## Topics
 ```
 HR Interview Questions Tutorial
-[ ] Home
-[ ] HR Interview Questions
+[x] Home
+[x] HR Interview Questions
 [ ] Behavioral Questions
 [ ] General Interview Questions
 [ ] Case Study Interview Questions
